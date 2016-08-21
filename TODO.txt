@@ -1,0 +1,13 @@
+﻿===========================
+=					      =
+=    Dekkcrypter 2015	  =
+=					      =
+===========================
+
+-Make all the anti's work
+-Fix encryption to make it FUD
+-If .net inject itself?
+-Copy exe to appdata and make sure autorun key in regedit is also pointing to that directory
+-Make exe persistaned
+-Disable uac regedit cmd taskmanager
+-Writer.cs convert to base64?

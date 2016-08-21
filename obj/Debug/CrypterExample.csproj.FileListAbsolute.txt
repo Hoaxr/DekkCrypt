@@ -1,0 +1,18 @@
+C:\Users\Nikolas\AppData\Local\Temporary Projects\CrypterExample\bin\Debug\CrypterExample.exe.config
+C:\Users\Nikolas\AppData\Local\Temporary Projects\CrypterExample\bin\Debug\CrypterExample.exe
+C:\Users\Nikolas\AppData\Local\Temporary Projects\CrypterExample\bin\Debug\CrypterExample.pdb
+C:\Users\Nikolas\AppData\Local\Temporary Projects\CrypterExample\obj\Debug\CrypterExample.csprojResolveAssemblyReference.cache
+C:\Users\Nikolas\AppData\Local\Temporary Projects\CrypterExample\obj\Debug\CrypterExample.Form1.resources
+C:\Users\Nikolas\AppData\Local\Temporary Projects\CrypterExample\obj\Debug\CrypterExample.Properties.Resources.resources
+C:\Users\Nikolas\AppData\Local\Temporary Projects\CrypterExample\obj\Debug\CrypterExample.csproj.GenerateResource.Cache
+C:\Users\Nikolas\AppData\Local\Temporary Projects\CrypterExample\obj\Debug\CrypterExample.exe
+C:\Users\Nikolas\AppData\Local\Temporary Projects\CrypterExample\obj\Debug\CrypterExample.pdb
+C:\Users\Nikolas\Documents\Visual Studio 2012\Projects\CrypterExample\CrypterExample\bin\Debug\CrypterExample.exe.config
+C:\Users\Nikolas\Documents\Visual Studio 2012\Projects\CrypterExample\CrypterExample\obj\Debug\CrypterExample.exe
+C:\Users\Nikolas\Documents\Visual Studio 2012\Projects\CrypterExample\CrypterExample\obj\Debug\CrypterExample.pdb
+C:\Users\Nikolas\Documents\Visual Studio 2012\Projects\CrypterExample\CrypterExample\bin\Debug\CrypterExample.exe
+C:\Users\Nikolas\Documents\Visual Studio 2012\Projects\CrypterExample\CrypterExample\bin\Debug\CrypterExample.pdb
+C:\Users\Nikolas\Documents\Visual Studio 2012\Projects\CrypterExample\CrypterExample\obj\Debug\CrypterExample.csprojResolveAssemblyReference.cache
+C:\Users\Nikolas\Documents\Visual Studio 2012\Projects\CrypterExample\CrypterExample\obj\Debug\CrypterExample.Form1.resources
+C:\Users\Nikolas\Documents\Visual Studio 2012\Projects\CrypterExample\CrypterExample\obj\Debug\CrypterExample.Properties.Resources.resources
+C:\Users\Nikolas\Documents\Visual Studio 2012\Projects\CrypterExample\CrypterExample\obj\Debug\CrypterExample.csproj.GenerateResource.Cache
